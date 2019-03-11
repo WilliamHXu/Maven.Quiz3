@@ -1,7 +1,5 @@
 package rocks.zipcode.io.quiz3.fundamentals;
 
-import com.sun.xml.internal.fastinfoset.util.CharArray;
-
 /**
  * @author leon on 09/12/2018.
  */
